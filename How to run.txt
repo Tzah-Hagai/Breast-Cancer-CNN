@@ -1,0 +1,8 @@
+1.Open the ipynb file in google colab.
+2.Change Runtime type to 'GPU' in order to decrease the runtime.
+3.Upload the "kaggle" file to the colab.
+4.Run the program.
+
+Side Note: In order to switch between the different models, copy the desired
+model script from the its notepad and paste it where the base model script
+is located in the colab code and run the program again from that point forward.
